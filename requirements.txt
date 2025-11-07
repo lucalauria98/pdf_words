@@ -1,0 +1,4 @@
+# PDF-Bibliotheken (eine reicht aus, PyMuPDF ist empfohlen)
+pymupdf>=1.23.0  # Sehr schnell, gut für große PDFs (empfohlen)
+# pdfplumber>=0.9.0  # Alternative (langsamer, aber präziser)
+
