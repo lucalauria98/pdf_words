@@ -1,4 +1,5 @@
 # PDF Wort-Extraktor
+----------------------
 
 Ein Python-Programm zum Extrahieren aller Wörter aus PDF-Dateien und Speichern in CSV-Format.
 
@@ -124,4 +125,5 @@ python pdf_wort_extractor.py grosse_dokumentation.pdf --counts
 **Zu langsam**
 - Stellen Sie sicher, dass PyMuPDF installiert ist (nicht pdfplumber)
 - Prüfen Sie, ob die PDF viele Bilder enthält (kann langsam sein)
+
 
